@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  Se seu adversario parecer assustador é porque seu coração estar atrofiando... \\./
+- Typing SVG
 
 
